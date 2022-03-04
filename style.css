@@ -11,6 +11,16 @@
     background-size:contain;
     background-position:bottom;
 }
+
+/* No Scroll Bar */
+::-webkit-scrollbar {
+    width: 0px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #FF0000;
+}
+
 /* Navagation Bar */
 nav {
     height: 130px;
