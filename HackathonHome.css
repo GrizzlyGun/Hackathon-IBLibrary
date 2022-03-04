@@ -221,13 +221,13 @@ Span {
 	background-color: #222;
 }
 
-.footer .social{
+.footer .media{
 	text-align: center;
 	padding-top: 30px;
 	color: white;
 }
 
-.footer .social a{
+.footer .media a{
 	font-size: 24px;
 	color: inherit;
 	border: 1px solid #ccc;
@@ -241,7 +241,7 @@ Span {
 	opacity: 0.75;
 }
 
-.footer social a:hover{
+.footer .media a:hover{
 	opacity: 0.9;
 }
 
