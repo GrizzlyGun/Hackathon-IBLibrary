@@ -266,3 +266,11 @@ Span {
 .footer ul li a :hover{
 	opacity: 1;
 }
+.footer .desc{
+	margin-top: 15px;
+	text-align: center;
+	font-size: 10px;
+	color: #aaa;
+	padding-bottom: 40px;
+	margin-top: -15px;
+}
