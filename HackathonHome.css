@@ -7,7 +7,7 @@
 	box-sizing: border-box;
 }
 
-/*
+/* Scroll Bar */
 	::-webkit-scrollbar {
 		width: 10px;
 	}
@@ -19,15 +19,15 @@
 	::-webkit-scrollbar-thumb {
 		background-color: #565551;
 	}
-*/
 
+/* Background */
 .topsection {
 	background-image: url('Students.jpg');
 	height: 100vh;
 	background-size: cover;
 	background-position: center;
 }
-
+/* Navagation Bar */
 nav {
 	height: 140px;
 	width: 100%;
@@ -62,7 +62,7 @@ ul li a {
 	color: #b08a7b;
 	font-size: 17px;
 }
-
+/* Header */
 .Headbackground {
 	text-align: center;
 	background: rgba(0, 0, 0,.2);
@@ -94,7 +94,7 @@ Span {
 .Blue {
 	color: #9fb6d3;
 }
-
+/* Recent Posts */
 .LibraryHomeRow {
 	margin-right: 200px;
 	margin-left: 200px;
@@ -130,8 +130,9 @@ Span {
 	font-size: 19px;
 	text-align: center;
 	padding-top: 15px;
-}
 
+}
+/* Navagation hover effect */
 .home::after {
 	content: '';
 	display: block;
@@ -191,3 +192,5 @@ Span {
 	width: 54px;
 	margin-top: -30px;
 }
+/* About Us */
+

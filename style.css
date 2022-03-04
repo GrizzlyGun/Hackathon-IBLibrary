@@ -4,14 +4,14 @@
     margin: 0;
     padding: 0;
 }
-
+/* Backgrouund */
 .topsection {
     background-image: url('MacbethImage.jpg');
     height: 100vh;
     background-size:contain;
     background-position:bottom;
 }
-
+/* Navagation Bar */
 nav {
     height: 130px;
     width: 100%;
@@ -46,7 +46,7 @@ nav {
     color: #b08a7b;
     font-size: 17px;
 }
-
+/* Header */
 .Headbackground {
     text-align: center;
     background: rgba(0, 0, 0,.2);
@@ -70,7 +70,7 @@ nav {
     padding-left: 10px;
     text-decoration: none;
 }
-
+/* Analysis */
 .analysis{
     font-size: 50px;
     color: #000000;
@@ -104,7 +104,7 @@ nav {
     margin-left: 200px;
     margin-right: 200px;
 }
-
+/* Navbar hover effect */
 .home::after {
     content: '';
     display: block;
