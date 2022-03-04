@@ -108,12 +108,36 @@ nav {
     font-size: 17px;
 }
 .title {
-    padding-bottom: 30px;
+    padding-bottom: 15px;
 }
 .text, .title { 
     margin-left: 300px;
     margin-right: 300px;
 }
+
+.text {
+    padding-bottom: 30px;
+}
+
+.list {
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-bottom: 5px;
+}
+
+.history {
+    padding-left: 50px;
+}
+
+.second {
+    padding-left: 70px;
+}
+
+.last {
+    padding-bottom: 30px;
+}
+
+
 /* Navagation hover effect */
 .home::after {
 	content: '';
