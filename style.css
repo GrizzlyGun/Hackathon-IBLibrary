@@ -125,18 +125,25 @@ nav {
     padding-bottom: 5px;
 }
 
-.history {
+.first {
     padding-left: 50px;
 }
 
 .second {
-    padding-left: 70px;
+    padding-left: 65px;
 }
 
 .last {
     padding-bottom: 30px;
 }
 
+.third {
+    padding-left: 80px;
+}
+
+.blank {
+    margin-bottom: 150px;
+}
 
 /* Navagation hover effect */
 .home::after {
