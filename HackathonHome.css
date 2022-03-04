@@ -63,9 +63,9 @@ nav {
 /* Header */
 .Headbackground {
 	text-align: center;
-	background: rgba(0, 0, 0,.2);
+	background: rgba(0, 0, 0,.3);
 	padding-top: 22.1%;
-	padding-bottom: 22.1%;
+	padding-bottom: 22.0%;
 }
 
 .Head {
@@ -218,7 +218,7 @@ Span {
 .footer {
 	width: 100%;
 	background-color: #222;
-	margin-top: 1000px;
+	margin-top: 660px;
 }
 
 .footer .media{
