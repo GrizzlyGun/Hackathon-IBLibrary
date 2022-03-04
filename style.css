@@ -23,7 +23,7 @@
 
 /* Navagation Bar */
 nav {
-    height: 130px;
+    height: 140px;
     width: 100%;
     background: white;
     position: fixed;
@@ -111,66 +111,66 @@ nav {
     padding-bottom: 30px;
 }
 .text, .title { 
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 300px;
+    margin-right: 300px;
 }
-/* Navbar hover effect */
+/* Navagation hover effect */
 .home::after {
-    content: '';
-    display: block;
-    background-color: #b08a7b;
-    height: 0px;
-    width: 0px;
-    transform: scaleX(1.0);
-    transition: ease-out .35s;
-    margin-top: -30px;  
+	content: '';
+	display: block;
+	background-color: #b08a7b;
+	height: 0px;
+	width: 0px;
+	transform: scaleX(1.0);
+	transition: ease-out .35s;
+	margin-top: -30px;	
 }
 
 .home:hover::after {
-    content: '';
-    display: block;
-    background-color: #b08a7b;
-    height: 3px;
-    width: 50px;
-    margin-top: -30px;
+	content: '';
+	display: block;
+	background-color: #b08a7b;
+	height: 3px;
+	width: 50px;
+	margin-top: -30px;
 }
 
 .iblibrary::after {
-    content: '';
-    display: block;
-    background-color: #b08a7b;
-    height: 0px;
-    width: 0px;
-    transform: scaleX(1.0);
-    transition: ease-out .35s;
-    margin-top: -30px;  
+	content: '';
+	display: block;
+	background-color: #b08a7b;
+	height: 0px;
+	width: 0px;
+	transform: scaleX(1.0);
+	transition: ease-out .35s;
+	margin-top: -30px;	
 }
 
 .iblibrary:hover::after {
-    content: '';
-    display: block;
-    background-color: #b08a7b;
-    height: 3px;
-    width: 75px;
-    margin-top: -30px;  
+	content: '';
+	display: block;
+	background-color: #b08a7b;
+	height: 3px;
+	width: 75px;
+	margin-top: -30px;	
 }
 
 .forum::after {
-    content: '';
-    display: block;
-    background-color: #b08a7b;
-    height: 0px;
-    width: 0px;
-    transform: scaleX(1.0);
-    transition: ease-out .35s;
-    margin-top: -30px;  
+	content: '';
+	display: block;
+	background-color: #b08a7b;
+	height: 0px;
+	width: 0px;
+	transform: scaleX(1.0);
+	transition: ease-out .35s;
+	margin-top: -30px;	
 }
 
 .forum:hover::after {
-    content: '';
-    display: block;
-    background-color: #b08a7b;
-    height: 3px;
-    width: 54px;
-    margin-top: -30px;
+	content: '';
+	display: block;
+	background-color: #b08a7b;
+	height: 3px;
+	width: 54px;
+	margin-top: -30px;
 }
