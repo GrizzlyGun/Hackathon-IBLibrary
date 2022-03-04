@@ -274,3 +274,7 @@ Span {
 	padding-bottom: 40px;
 	margin-top: -15px;
 }
+.LibraryHomeColumn a{
+	text-decoration: none;
+	color: black;
+}
