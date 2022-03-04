@@ -23,7 +23,7 @@
 
 /* Navagation Bar */
 nav {
-    height: 130px;
+    height: 140px;
     width: 100%;
     background: white;
     position: fixed;
@@ -111,8 +111,8 @@ nav {
     padding-bottom: 30px;
 }
 .text, .title { 
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 300px;
+    margin-right: 300px;
 }
 /* Navagation hover effect */
 .home::after {
